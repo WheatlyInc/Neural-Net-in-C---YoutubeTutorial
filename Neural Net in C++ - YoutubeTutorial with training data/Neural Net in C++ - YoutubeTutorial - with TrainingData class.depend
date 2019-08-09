@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1522446531 source:z:\users\john\documents\coding projects\codeblocks c++ for fun\neural net in c++ - youtubetutorial\neural net in c++ - youtubetutorial with training data\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cassert>
+	<cmath>
+	<fstream>
+	<sstream>
+
